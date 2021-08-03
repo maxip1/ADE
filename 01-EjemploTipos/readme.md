@@ -46,4 +46,4 @@
 ### Crédito extra
 
    ##### ¿Son esos realmente todos los tipos que vimos en clase? 
-   ##### *No, todo dato de que pueda ser definido y sobre los cuales se puedan realizar operaciones puede ser un tipo de dato*
+   ##### *No, tambien vimos el tipo de dato stream*
